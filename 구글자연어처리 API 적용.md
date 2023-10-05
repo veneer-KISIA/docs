@@ -1,6 +1,8 @@
 
 구글 서버 콘솔 들어가서
+
 https://codelabs.developers.google.com/codelabs/cloud-natural-language-python3#1
+
 여기에서 1~3 으로 서버 세팅 완료하고
 
 8번으로 Google Natural API 작동 하는거 확인
